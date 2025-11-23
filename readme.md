@@ -56,7 +56,7 @@
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
 | 💬 Chat App | Real-time chat with 1-1 & group chat | Next.js, Express, MongoDB, Socket.io, Zustand | 🔗 Coming Soon |
-| 📊 Portfolio Website | My modern animated portfolio | Next.js, GSAP, Tailwind | 🔗 Coming Soon |
+| 📊 Portfolio Website | My modern animated portfolio | Next.js, GSAP, Tailwind | 🔗(https://younussyed.netlify.app/) |
 | 🤖 ML Experiment Hub | AI model testing playground | Python, Jupyter, ML Models | 🔗 Coming Soon |
 
 ---
